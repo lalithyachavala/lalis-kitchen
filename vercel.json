@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/mealdb/(.*)", "destination": "https://www.themealdb.com/$1" },
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
