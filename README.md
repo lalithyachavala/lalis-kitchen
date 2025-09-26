@@ -4,7 +4,7 @@ A warm & cozy recipe finder for Taylor (busy professional): search by ingredient
  Features: multi-ingredient search (comma-separated), cuisine + veg-only + time filters (Any/≤30/≤45/≤60/60+)
 
 ## Stack
-- React + Vite + TypeScript
+- React + Vite + TypeScript + js
 - Tailwind CSS
 - React Router
 - Framer Motion (light fades)
